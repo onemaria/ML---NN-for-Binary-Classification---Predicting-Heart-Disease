@@ -22,3 +22,7 @@ Data Description
 * ca: Number of major vessels (0-3) colored by fluoroscopy
 * thal: 3 = normal; 6 = fixed defect; 7 = reversible defect
 * target: 1 = Heart disease present, 0 = Heart disease not present
+
+
+
+Dataset was obtained from Kaggle https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
